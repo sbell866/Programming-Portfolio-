@@ -1,3 +1,4 @@
+#Sam Bell lesson 6 madlib assignment ICS3U september 28th 2026
 place = (input("enter any place: "))
 #stores user input for place in the variable 'place'.
 adjective = (input("enter any adjective: "))
