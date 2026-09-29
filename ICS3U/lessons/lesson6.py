@@ -1,4 +1,16 @@
-#Sam Bell lesson 6 madlib assignment ICS3U september 28th 2026
+#-------------------------------
+# Sam
+# ICS3U
+# Lesson 6
+# September 28th 2026
+#
+# This program will ask a series of questions and print a story based on the user's input.
+#
+# The inputs are "enter any place: ", "enter any adjective: ", "enter any name: ", "enter another name: ", "enter any animal: ", "enter any number: ", and "enter another number: ".
+
+# The output is the story that is printed.
+#
+#-------------------------------
 place = (input("enter any place: "))
 #stores user input for place in the variable 'place'.
 adjective = (input("enter any adjective: "))

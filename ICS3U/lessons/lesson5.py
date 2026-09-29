@@ -1,3 +1,16 @@
+#-------------------------------
+# Sam
+# ICS3U
+# Lesson 5
+# September 2026
+#
+# This program will store integers in in variables and print equations with the variables.
+#
+# The inputs are "Pick any number: ".
+
+# The outputs are (word), (age, "plus 5 is", age + 5", "decimal, "times 10 is", decimal * 10), and (number, "times 10 times 2 is", number * 10 * 2).
+#
+#-------------------------------
 word = "sword"
 (print)(word)
 age = 16

@@ -1,3 +1,16 @@
+#-------------------------------
+# Sam
+# ICS3U
+# Lesson 7
+# September 29th 2026
+#
+# This program will ask a series of questions, such as the temperature, and their grade and will respond based on the user's input.
+#
+# The inputs are "Enter your age: ", "Enter any number: ", "Enter your grade: ", "Enter the temperature in Celsius: ", and "Enter your password: ".
+
+# The outputs are "You are not an adult.", "You are an adult.", "The number is even.", "The number is odd.", "You got a Level 4.", "You got a Level 3.", "You got a Level 2.", "You got a Level 1.", "It's hot outside.", "It's cold outside.", "Access granted.", and "Access denied.".
+#
+#-------------------------------
 age = int(input("Enter your age: "))
 if age < 18:
     print ("You are not an adult.")
