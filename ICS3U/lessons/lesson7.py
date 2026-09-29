@@ -17,3 +17,13 @@ if grade >= 60 and grade < 70:
     print ("You got a Level 2.")
 if grade < 60:
     print ("You got a Level 1.")
+temp = int(input("Enter the temperature in Celsius: "))
+if temp > 25:
+    print ("It's hot outside.")
+else:
+    print ("It's cold outside.")
+password = input("Enter your password: ")
+if password == "tiger123":
+    print ("Access granted.")
+else:
+    print ("Access denied.")
