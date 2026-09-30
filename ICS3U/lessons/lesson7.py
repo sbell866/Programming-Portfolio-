@@ -40,3 +40,8 @@ if password == "tiger123":
     print ("Access granted.")
 else:
     print ("Access denied.")
+number = int(input("Enter any number: "))
+if number < 0:
+    print ("The number is negative.")
+else:
+    print ("The number is positive.")
